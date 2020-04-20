@@ -1,5 +1,3 @@
-Billwerk is a subscription management platform. One of the tasks billwerk performs is billing subscriptions.
-
 A subscription could be modelled like this:
 
 	public class Subscription
